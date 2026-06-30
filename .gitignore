@@ -1,0 +1,15 @@
+# Data
+demos_with_obs/
+official_demos/
+
+# Checkpoints
+**/checkpoints/
+*.pt
+
+# Environments
+venv/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
