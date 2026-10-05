@@ -19,7 +19,7 @@ Trained behavior-cloned policies on a simulated pick-and-lift task (RoboSuite `L
 
 *(50 evaluation episodes per condition)*
 
-Full writeup: [`writeup.pdf`](./writeup.pdf)
+Full writeup: [`writeup.pdf`](./Writeup.pdf)
 
 ## Setup
 
