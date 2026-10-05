@@ -41,7 +41,7 @@ Full writeup: [`writeup.pdf`](./Writeup.pdf)
 ├── data_collection.py        # Replays raw demos through sim to generate observations
 ├── download_dataset.py       # Downloads official RoboSuite/robomimic Lift demos
 ├── writeup.pdf               # Full research writeup
-├── comparison.mp4            # Side-by-side demo: baseline vs. best chunked policy
+├── comparison.gif            # Side-by-side demo: baseline vs. best chunked policy
 ├── .gitignore
 └── README.md
 ```
